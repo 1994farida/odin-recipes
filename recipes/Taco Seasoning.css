@@ -1,0 +1,25 @@
+body {
+    padding: 0 30px;
+    font-size: 20px;
+    line-height: 25px;
+    font-family: "Times New Roman", Times, serif;
+    background-color: rgb(43, 174, 226);
+  }
+
+  h1 {
+    font-size: medium;
+    line-height: normal;
+    color: brown;
+  }
+
+  h2, h3, h4 {
+    font-size: 15px;
+    line-height: normal;
+    color: blueviolet;
+  }
+
+  p {
+    font-size: 10px;
+    line-height: normal;
+    color: yellow;
+  }
