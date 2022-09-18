@@ -6,6 +6,10 @@ body {
     color: #ccc0b1;
     background-color: blueviolet;
   }
+
+ .round {
+  border-radius: 80%;
+ }
   
   h1 {
     font-size: 36px;

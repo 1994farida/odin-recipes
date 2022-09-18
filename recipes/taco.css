@@ -1,0 +1,31 @@
+body {
+    padding: 0 30px;
+    font-family: "Times New Roman", Times, serif;
+    background-color: rgb(128, 240, 255);
+  }
+
+  .round {
+     border-radius: 50%;
+  }
+
+  .description {
+    text-align: center;
+    font-size: larger;
+    line-height: normal;
+    color: rgb(233, 30, 30);
+  }
+
+ 
+
+   h3, h4 {
+    font-size: inline;
+    line-height: normal;
+    color: blueviolet;
+    
+  }
+
+  p {
+    font-size: 20px;
+    line-height: normal;
+    color: yellow;
+  }
